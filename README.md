@@ -2,6 +2,7 @@
 ### Contenus:
 * Analyse exploratoire des données.
 * Traitement des données brutes:
+    * Nettoayage des phrases.
     * Segmentation en mots (*Tokenization*).
     * Elimination des *stop-words*.
     * Stemming/lemmatisation (racinisation).
